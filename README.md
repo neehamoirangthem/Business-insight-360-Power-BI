@@ -14,17 +14,19 @@ The dashboard includes Finance, Sales, Marketing, Supply Chain and Executive vie
  - Executive View: Combining financial KPIs, regional insights and competitive market share analysis.
 
 ### Tools & Technologies
-   Tool                              Purpose
-   Power BI Desktop                  Data Modeling, visualization, dashboard design
-   Power Query                       Data Cleaning, transformation
-   DAX                               Measures, Calculated Columns
-   Excel/CSV, MySQL                  Data sources files
+
+  | Tool                           | Purpose                                         |
+  |--------------------------------|-------------------------------------------------|
+  | Power BI Desktop               | Data Modeling, visualization, dashboard design  |
+  | Power Query                    | Data Cleaning, transformation                   |
+  | DAX                            | Measures, Calculated Columns                    |
+  | Excel/CSV, MySQL               | Data sources files                              |
 
 ### Skills Learned
-    - Data modeling using Star Schema
-    - Power Query transformation
-    - Advanced DAX(Time Intelligence, CALCULATE, VAR etc)
-    - KPI and dashboard design principles
-    - Performance optimization using DAX Studio
-    - Data integration from various sources like Excel/CSV files, MySQL database, etc
-    - Real-time business reporting
+  - Data modeling using Star Schema
+  - Power Query transformation
+  - Advanced DAX(Time Intelligence, CALCULATE, VAR etc)
+  - KPI and dashboard design principles
+  - Performance optimization using DAX Studio
+  - Data integration from various sources like Excel/CSV files, MySQL database, etc
+  - Real-time business reporting
