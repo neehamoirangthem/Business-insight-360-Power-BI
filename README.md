@@ -4,7 +4,7 @@ AtliQ Hardware is a global consumer electronics company. To support data-driven 
 The dashboard includes Finance, Sales, Marketing, Supply Chain and Executive views providing a unified analytical environment for stakeholders to monitor performance, identity trends and make strategic decisions with confidence.
 
 ## Dashboard
-
+  ### Business_insights_360 PDF[Click here to view the dashboard](Business_insights_360.pdf)
 
 ### Features
  - Finance View: Comprehensive P&L dashboard visualizing Net Sales, GM% and Net Profit trends.
@@ -21,10 +21,10 @@ The dashboard includes Finance, Sales, Marketing, Supply Chain and Executive vie
    Excel/CSV, MySQL                  Data sources files
 
 ### Skills Learned
-    -Data modeling using Star Schema
-    -Power Query transformation
-    -Advanced DAX(Time Intelligence, CALCULATE, VAR etc)
-    -KPI and dashboard design principles
-    -Performance optimization using DAX Studio
-    -Data integration from various sources like Excel/CSV files, MySQL database, etc
-    -Real-time business reporting
+    - Data modeling using Star Schema
+    - Power Query transformation
+    - Advanced DAX(Time Intelligence, CALCULATE, VAR etc)
+    - KPI and dashboard design principles
+    - Performance optimization using DAX Studio
+    - Data integration from various sources like Excel/CSV files, MySQL database, etc
+    - Real-time business reporting
